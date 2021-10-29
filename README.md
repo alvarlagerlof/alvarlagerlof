@@ -6,5 +6,3 @@ Thank you to the folks who [sponsor](https://github.com/sponsors/alvarlagerlof) 
 
 <a href="https://github.com/lynkos"><img title="lynkos" src="https://github.com/lynkos.png" width="32"></a>
 <a href="https://github.com/jtorreggiani"><img title="jtorreggiani" src="https://github.com/jtorreggiani.png" width="32"></a>
-<a href="https://github.com/itsabdessalam"><img title="itsabdessalam" src="https://github.com/itsabdessalam.png" width="32"></a>
-<a href="https://github.com/thomasbnt"><img title="thomasbnt" src="https://github.com/thomasbnt.png" width="32"></a>
